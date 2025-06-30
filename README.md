@@ -4,6 +4,12 @@ Este projeto consiste em um dashboard desenvolvido no Power BI para análise de 
 
 ---
 
+## 📸 Visão do Projeto
+![Dashboard-image](https://github.com/user-attachments/assets/8eb446ad-d182-45e5-83d9-cf3e836633c0)
+![Dashboard-image2](https://github.com/user-attachments/assets/467299ae-3bee-4842-ba5e-2a18c7671130)
+
+---
+
 ## 📌 Funcionalidades do Dashboard
 
 O dashboard é dividido em seções analíticas, permitindo uma navegação clara e objetiva pelos seguintes temas:
